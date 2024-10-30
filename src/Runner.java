@@ -20,5 +20,9 @@ public class Runner {
         //techpro 4
         //------------------
         //********************
+
+
+
+        //dev1 kodlarini yazdi
     }
 }
