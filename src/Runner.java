@@ -24,5 +24,7 @@ public class Runner {
 
 
         //dev1 kodlarini yazdi
+
+        //dev 2 'nin yaptigi desiklikler
     }
 }
